@@ -23,7 +23,7 @@ function App() {
         </p>
         <div>
           <a
-            href="/Odyssey24"
+            href="/Odyssey24/"
             className="inline-block px-8 py-4 bg-red-700 text-yellow-100 font-bold text-xl rounded-lg shadow-xl hover:bg-red-600 transition-colors duration-300 transform hover:scale-105"
           >
             Visit Odyssey 2024
